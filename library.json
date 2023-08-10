@@ -1,0 +1,20 @@
+{
+  "name": "Microfire Mod-NTC",
+  "keywords": "temperature, digital, ntc",
+  "description": "Add the ability to measure any 10k NTC temperature to your hardware application with a fully digital interface.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u-fire/Mod-NTC.git"
+  },
+  "authors": [
+    {
+      "name": "Microfire LLC",
+      "email": "contact@microfire.co",
+      "url": "https://microfire.co",
+      "maintainer": true
+    }
+  ],
+  "version": "2.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
